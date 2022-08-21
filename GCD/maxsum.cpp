@@ -25,7 +25,6 @@ int main()
     int a,b;
     cin>>a>>b;
    cout<<" Two number of GCD is: "<<gcd(a,b);
-   int max=INT_MIN;
 
     return 0;
 }
