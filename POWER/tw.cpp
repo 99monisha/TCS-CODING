@@ -1,3 +1,11 @@
+/*
+
+
+1.5 ^ 2.5 = 2.75568
+1.5 ^ -2.5 = 0.362887
+*/
+
+
 #include<iostream>
 using namespace std;
 
