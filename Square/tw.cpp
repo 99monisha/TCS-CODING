@@ -11,7 +11,6 @@ void checkperfectsquare(int n)
         cout << "False";
     }
 }
-
 int main()
 {
     int n = 49;
