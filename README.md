@@ -7,7 +7,7 @@
 <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/POWER/on.cpp">5. Check for Perfect Square method-1<a/></ol></p>
 <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/POWER/tw.cpp">6. Check for Perfect Square method-2<a/></ol></p>
                 <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/OctalToDecimal/on.cpp">7. Octal to Decimal Conversion</a></ol></p>
-                      <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/OctalToDecimal/tw.cpp">7. Octal to Decimal Conversion</a></ol></p>
+                      <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/OctalToDecimal/tw.cpp">8. Octal to Decimal Conversion</a></ol></p>
                     <p><ol><a href=""></a></ol></p>
                         <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
