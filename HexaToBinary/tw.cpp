@@ -1,5 +1,5 @@
-/*Hexadecimal to decimal conversion using inbuilt methods in C++
-
+/*
+Hexadecimal to decimal conversion using inbuilt methods in C++
 3B7
 951
  */ 
