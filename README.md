@@ -9,6 +9,7 @@
                 <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/OctalToDecimal/on.cpp">7. Octal to Decimal Conversion method-1</a></ol></p>
                       <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/OctalToDecimal/tw.cpp">8. Octal to Decimal Conversion method-2</a></ol></p>
                     <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/HexaToBinary/on.cpp">9. Hexadecimal to decimal conversion using inbuilt methods</a></ol></p>
+                    <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/HexaToBinary/on.cpp">10. Hexadecimal to decimal conversion using inbuilt methods</a></ol></p>
                         <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
