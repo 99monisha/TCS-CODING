@@ -1,4 +1,11 @@
-// Hexadecimal to decimal conversion using inbuilt methods in C++
+/*Hexadecimal to decimal conversion using inbuilt methods in C++
+
+
+ */ 
+
+
+
+
 #include<iostream>
 using namespace std;
 int main()
