@@ -16,7 +16,6 @@ int main()
         nextTerm = a + b;
         a = b;
         b = nextTerm;
-        
         cout << nextTerm << ", ";
     }
     return 0;
