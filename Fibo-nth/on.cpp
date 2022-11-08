@@ -18,4 +18,4 @@ int main()
         cout << nextTerm << ", ";
     }
     return 0;
-    }
+}
