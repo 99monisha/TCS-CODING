@@ -12,7 +12,7 @@
                     <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/HexaToBinary/tw.cpp">10. Hexadecimal to decimal conversion using inbuilt methods</a></ol></p>
 <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/HexaToBinary/tw.cpp">11. Hexadecimal to decimal conversion using inbuilt methods-1</a></ol></p>
                         <p><ol><a href="https://github.com/99monisha/TCS-CODING/blob/master/One/on.cpp">12. Check whether a number is an Automorphic number or not</a></ol></p>
-                        <p><ol><a href=""></a></ol></p>
+                        <p><ol><a href="">13. Check the number is Armstrong or Not</a></ol></p>
         <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
             <p><ol><a href=""></a></ol></p>
