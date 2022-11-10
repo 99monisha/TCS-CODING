@@ -19,4 +19,5 @@ int n = 376, sq = n * n ;
         cout << "Num: "<< n << ", Square: " << sq << " - is Automorphic";
     else
         cout << "Num: "<< n << ", Square: " << sq << " - is not Automorphic";
+        return 0;
     }
