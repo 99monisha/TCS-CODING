@@ -1,5 +1,6 @@
 /*
-
+Check whether a number is Armstrong number or not
+Armstrong number in C++
 407 is armstrong
 */
 
