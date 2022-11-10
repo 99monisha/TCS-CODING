@@ -1,6 +1,6 @@
 /*
 
-
+Num: 376, Square: 141376 - is Automorphic
 */
 
 #include <iostream>
