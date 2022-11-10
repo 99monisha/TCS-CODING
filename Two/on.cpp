@@ -1,6 +1,6 @@
 /*
 
-
+407 is armstrong
 */
 
 #include<bits/stdc++.h>
