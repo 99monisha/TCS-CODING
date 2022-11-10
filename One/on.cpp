@@ -1,5 +1,5 @@
 /*
-
+Check whether a number is an Automorphic number or not
 Num: 376, Square: 141376 - is Automorphic
 */
 
